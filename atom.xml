@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>怡乐未央</title>
+  <title>Xiaoyg&#39;s Blog</title>
   
-  <subtitle>一个菜鸟程序员</subtitle>
+  <subtitle>damo</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-05-28T11:39:51.418Z</updated>
+  <updated>2019-06-22T02:45:08.259Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,53 +17,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>你好，达摩</title>
-    <link href="http://yoursite.com/2019/05/28/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BE%BE%E6%91%A9/"/>
-    <id>http://yoursite.com/2019/05/28/你好，达摩/</id>
-    <published>2019-05-28T05:50:05.000Z</published>
-    <updated>2019-05-28T11:39:51.418Z</updated>
+    <title>JVM内存区域</title>
+    <link href="http://yoursite.com//blog/2019/06/22/JVM%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F/"/>
+    <id>http://yoursite.com//blog/2019/06/22/JVM内存区域/</id>
+    <published>2019-06-22T02:40:39.000Z</published>
+    <updated>2019-06-22T02:45:08.259Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;使用Hexo,是一个非常简单的事情&lt;/p&gt;
-
-        
-      
-    
     </summary>
     
+      <category term="Java" scheme="http://yoursite.com/categories/Java/"/>
     
-      <category term="a" scheme="http://yoursite.com/tags/a/"/>
     
-      <category term="b" scheme="http://yoursite.com/tags/b/"/>
+      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
     
-      <category term="c" scheme="http://yoursite.com/tags/c/"/>
+      <category term="JVM" scheme="http://yoursite.com/tags/JVM/"/>
     
-  </entry>
-  
-  <entry>
-    <title>JAVA编程思想</title>
-    <link href="http://yoursite.com/2019/05/28/hello-world/"/>
-    <id>http://yoursite.com/2019/05/28/hello-world/</id>
-    <published>2019-05-28T01:35:16.658Z</published>
-    <updated>2019-05-28T05:17:58.457Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
+      <category term="编程语言" scheme="http://yoursite.com/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
     
   </entry>
   
